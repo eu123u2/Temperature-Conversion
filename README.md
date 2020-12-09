@@ -1,0 +1,2 @@
+# Temperature-Conversion
+Temperature conversion program. The program prompts the user to enter a temperature and its unit (as a single character). If the user enters C (for Celsius), the output should be the equivalent temperature in Fahrenheit. For example, if the user enters 100C, the program should output 212F. But if the user enters F (for Fahrenheit), the output should be the equivalent temperature in Celsius. For example, if the user enters 32F, the program should output 0C. If the user enters any other characters, show an error message.
